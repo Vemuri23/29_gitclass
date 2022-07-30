@@ -1,0 +1,11 @@
+git clone https://github.com/anil-k-rajamoni18/PythonSession.git
+
+
+
+echo "# Python-Practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vemuri23/Python-Practice.git
+git push -u origin main
